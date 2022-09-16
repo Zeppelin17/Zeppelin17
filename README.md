@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/polmobe" target="blank"><img src="https://img.shields.io/twitter/follow/polmobe?logo=twitter&style=for-the-badge" alt="polmobe" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, Nuxt and AWS Amplify**
+- 🌱 I’m currently learning **Odoo Python Framework**
 
 - 📝 I regularly write articles on [https://zeppelin.dev](https://zeppelin.dev)
 
